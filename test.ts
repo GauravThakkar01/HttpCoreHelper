@@ -1,3 +1,3 @@
 class Gaurav{
-    
+    gaurav: any;
 }
